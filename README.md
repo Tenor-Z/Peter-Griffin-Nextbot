@@ -6,6 +6,6 @@
  chase times to this spawnable NPC. Don't view the sound files on your computer because
  they're very loud.
  
-#How to Install
+# How to Install
 Download as ZIP and place the contents from it into the addons folder in your GMOD installation
 (Assuming you installed it via Steam)
